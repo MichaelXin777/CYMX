@@ -4,10 +4,6 @@ Core analysis code examining the association between the weight-adjusted-waist
 index (WWI) and breast cancer prevalence in U.S. adult women, based on NHANES
 1999-2016 public-use data.
 
-Each script is a self-contained segment implementing one analysis. Derived
-analytic cohort files are not redistributed; each `load(...)` line is a
-placeholder, and the expected input objects and variable coding are documented
-in the script header.
 
 ## Contents
 
